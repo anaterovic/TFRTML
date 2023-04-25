@@ -1,1 +1,1 @@
-# TFRTML
+# Diterpene project
